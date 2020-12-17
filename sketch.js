@@ -33,7 +33,6 @@ if (wall.x-car.x <(car.width+wall.width)/2)
 
 
 }
-
 function draw() {
   background(255,255,255); 
    drawSprites();
